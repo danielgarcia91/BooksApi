@@ -9,3 +9,6 @@ C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\n
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfoInputs.cache
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfo.cs
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.pdb
+C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.dll
+C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.pdb

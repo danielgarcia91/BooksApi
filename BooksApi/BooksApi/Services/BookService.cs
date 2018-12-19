@@ -15,6 +15,7 @@ namespace BooksApi.Services
 
         public BookService (IConfiguration config)
         {
+            //MongoClient reads the server instance for performing DB operations.
             var client = new MongoClient(config.GetConnectionString("BookstoreDb"));
             var database = client.GetDatabase("BookstoreDb");
             _books = database.GetCollection<Book>("Books");
