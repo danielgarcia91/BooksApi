@@ -37,7 +37,15 @@ namespace BooksApi.Controllers
 
             return book;
         }
-
+        /*To Submit a POST DO THE FOLLOWING:
+         *       
+                {
+                   "BookName":"MVC Book",
+                   "Price":99.99,
+                   "Category":"Programming",
+                   "Author":"Visual Studio"
+                }         
+         * */
         [HttpPost]
         public ActionResult<Book> Create(Book book)
         {

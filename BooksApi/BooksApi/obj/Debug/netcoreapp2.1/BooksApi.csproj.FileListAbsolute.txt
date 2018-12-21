@@ -2,6 +2,7 @@ C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\n
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.json
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.dev.json
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.dll
+C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.pdb
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csprojAssemblyReference.cache
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csproj.CoreCompileInputs.cache
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cache
@@ -9,6 +10,8 @@ C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\n
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfoInputs.cache
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfo.cs
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorTargetAssemblyInfo.cache
-C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.pdb
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.dll
 C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.pdb
+C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.Views.dll
+C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.Views.pdb
+C:\Users\Alex Navarro\Documents\Git Repos\BooksApi\BooksApi\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csproj.CopyComplete
